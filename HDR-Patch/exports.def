@@ -1,0 +1,4 @@
+LIBRARY	"HDR-Patch"
+EXPORTS
+NVSEPlugin_Query
+NVSEPlugin_Load
